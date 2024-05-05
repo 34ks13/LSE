@@ -2691,6 +2691,738 @@
 		{
 			"path": "MetaHumans/Tech_Volodya/Previews/BP_Tech_Volodya_PreviewMeshCollection.uasset",
 			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Shoes/Boots/m_tal_nrw_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Body/BodyBaseColor.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Male/Tall/NormalWeight/Body/m_tal_nrw_body.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/M_BodySynthesized.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Eshby_FaceMesh.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceColor_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceColor_CM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceColor_CM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceColor_CM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceCavity_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceRoughness_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceNormal_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceNormal_WM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceNormal_WM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceNormal_WM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceEyeLipstickMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceFoundationBlusherMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceBakedGroomRootTipGradientRegionMasks.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceBakedGroomAttributeMap.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceColor_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceRoughness_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceNormal_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceBakedGroomRootTipGradientRegionMasks_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/FaceBakedGroomAttributeMap_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/T_BakedNormal_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/T_BakedNormal_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/T_BakedNormal_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/MI_EyeRefractive_Inst_L.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Face/Materials/MI_EyeRefractive_Inst_R.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/M_TeethCharacterCreator_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/M_EyelashLowerLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/M_EyeLash_HigherLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/Boots/M_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_fro/GroomBinding/Hair_S_Casual_MaleHead_fro_SkelMesh_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_fro/Hair/Hair_S_Casual.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair_Cards.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair_Helmet.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/GroomBinding/Eyebrows_M_Unruly_MaleHair_pfn_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Eyebrows_M_Unruly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/HairDefaultMaterial.uasset",
+			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair/GroomBinding/Eyelashes_S_Sparse_m_med_nrw_head_skmesh_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair/Hair/Eyelashes_S_Sparse.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/GroomBinding/Mustache_L_Messy_MaleHair_pfn_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy_CardsMesh_Group0_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Helmets/Mustache_L_Messy_Helmet_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Helmets/Mustache_L_Messy_Helmet_LOD6.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Helmets/Mustache_L_Messy_Helmet_LOD7.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair_pfn/Hair/Mustache_L_Messy.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Facial_Hair.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair_Helmet1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair/GroomBinding/Beard_S_Curly_m_med_nrw_head_skmesh_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/MaleHair/Hair/Beard_S_Curly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair_Cards1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_Hair_Helmet2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/FemaleHair/GroomBinding/Peachfuzz_M_Thin_f_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/FemaleHair/Hair/Peachfuzz_M_Thin.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Materials/MI_PeachFuzz.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/BP_Eshby.uasset",
+			"version": "1.1"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Body/m_tal_nrw_body_Physics.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Common/m_tal_nrw_body_preview.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Body/m_tal_nrw_animbp.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_02_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_02_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_foot_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_foot_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_03_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_03_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_02_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_02_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_calf_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_calf_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_02_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_02_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_02_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_02_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_01_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_01_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_02_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_02_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_hand_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_hand_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thigh_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thigh_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_01_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_01_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_lowerarm_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_lowerarm_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_lowerarm_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_lowerarm_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_clavicle_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_clavicle_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_02_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_02_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_03_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_03_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_02_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_02_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_03_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_03_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_02_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_02_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_01_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_01_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_03_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_03_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_calf_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_calf_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_02_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_02_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_01_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_01_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_retarget_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_retarget_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_01_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_01_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_01_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_01_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_01_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_01_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_hand_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_hand_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thigh_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thigh_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_01_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_01_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_clavicle_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_clavicle_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_01_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_01_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_upperarm_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_upperarm_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_03_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_pinky_03_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_03_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_03_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_03_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_thumb_03_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_02_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_02_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_foot_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_foot_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_01_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_ring_01_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_03_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_03_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_03_l_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_index_03_l_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_upperarm_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_upperarm_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_03_r_pose.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Tall/NormalWeight/Poses/m_tal_nrw_middle_03_r_anim.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/HighlightsTextures/HighlightMask_thin.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/M_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_heather_04_normal.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_heather_04.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_AO.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_custom_stitches.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy/Mustache_L_Messy_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy/Mustache_L_Messy_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy_Cards/Mustache_L_Messy_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy_Cards/Mustache_L_Messy_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy/Mustache_L_Messy_Opacity.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy_Cards/Mustache_L_Messy_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy_Cards/Mustache_L_Messy_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair_pfn/Textures/Mustache_L_Messy/Mustache_L_Messy_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Eshby/Previews/BP_Eshby_PreviewMeshCollection.uasset",
+			"version": "0.0"
 		}
 	]
 }
