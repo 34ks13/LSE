@@ -3,3 +3,4 @@ Face_archetype.uasset filter=lfs diff=lfs merge=lfs -text
 Tech_Girl_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
 Tech_Volodya_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
 Eshby_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Tech_Dizzy_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
